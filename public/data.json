@@ -1,0 +1,36 @@
+[{
+        "id": "rec12xb4re",
+        "name": "Best of Paris in 7 Days Tour",
+        "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+        "image": "https://media.istockphoto.com/photos/woman-visitor-wearing-an-antivirus-mask-in-the-historical-museum-at-picture-id1269050755",
+        "price": "1,995"
+    },
+    {
+        "id": "rec14xb3rf",
+        "name": "Best of Ireland in 14 Days Tour",
+        "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+        "image": "https://media.istockphoto.com/photos/woman-visitor-wearing-an-antivirus-mask-in-the-historical-museum-at-picture-id1269050755",
+        "price": "3,995"
+    },
+    {
+        "id": "rec22xb1rg",
+        "name": "Best of Salzburg & Vienna in 8 Days Tour",
+        "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+        "image": "https://media.istockphoto.com/photos/woman-visitor-wearing-an-antivirus-mask-in-the-historical-museum-at-picture-id1269050755",
+        "price": "2,995"
+    },
+    {
+        "id": "rec86xb4rh",
+        "name": "Best of Rome in 7 Days Tour",
+        "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+        "image": "https://media.istockphoto.com/photos/woman-visitor-wearing-an-antivirus-mask-in-the-historical-museum-at-picture-id1269050755",
+        "price": "2,095"
+    },
+    {
+        "id": "rec82xb4rj",
+        "name": "Best of Poland in 10 Days Tour",
+        "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+        "image": "https://media.istockphoto.com/photos/woman-visitor-wearing-an-antivirus-mask-in-the-historical-museum-at-picture-id1269050755",
+        "price": "2,566"
+    }
+]
